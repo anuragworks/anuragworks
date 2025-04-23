@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0000FF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atul!++%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BC;A+software+developer+%F0%9F%92%BB;Tech+Educator++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;And+a+Traveller+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0000FF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Anurag!++%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BC;A+software+developer+%F0%9F%92%BB;Tech+Educator++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;And+a+Traveller+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Glad to see you here!  🤩
 Let me explain about myself.
